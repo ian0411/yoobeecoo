@@ -1,6 +1,6 @@
 dj-database-url==0.4.2 #path to database
 Django==1.11.2
-#gunicorn==19.7.1 #heroku server
+gunicorn==19.7.1 #heroku server
 psycopg2==2.7.1 #postgres
 pytz==2017.2
 whitenoise==3.3.0 #heroku

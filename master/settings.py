@@ -135,7 +135,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 # This is currently used by Heroku
-ALLOWED_HOSTS = ['gentle-wave-59286.herokuapp.com']
+ALLOWED_HOSTS = ['enigmatic-oasis-82786.herokuapp.com']
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'ian0411@gmail.com'
