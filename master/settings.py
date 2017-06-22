@@ -139,7 +139,7 @@ ALLOWED_HOSTS = ['enigmatic-oasis-82786.herokuapp.com']
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'ian0411@gmail.com'
-EMAIL_HOST_PASSWORD = 'Ianhsu0510'
+EMAIL_HOST_PASSWORD = 'password'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
